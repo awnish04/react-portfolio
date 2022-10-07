@@ -1,0 +1,9 @@
+{
+  "editor.mouseWheelScrollSensitivity": 2,
+  "editor.mouseWheelZoom": true,
+  "workbench.editor.mouseBackForwardToNavigate": false,
+  "workbench.list.mouseWheelScrollSensitivity": 2,
+  "screencastMode.mouseIndicatorSize": 20,
+  "terminal.integrated.mouseWheelScrollSensitivity": 2,
+  "editor.definitionLinkOpensInPeek": true
+}
